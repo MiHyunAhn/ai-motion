@@ -6,6 +6,7 @@
 
 - 60초 · 세로 1080×1920 · 30fps
 - 키네틱 타이포그래피 / AI 파티클 / 업무흐름 그래픽 / 배경음악
+- Pretendard Bold · 밝고 희망적인 전자음악
 - 가상 업무 시나리오 · 내레이션 없음
 - 계약과 고객 발송은 사람의 승인 후 진행
 
@@ -13,7 +14,11 @@
 
 ![EP02 미리보기](videos/agent-ep02-preview.png)
 
-음악은 EP01과 동일하며 아래 출처와 라이선스가 적용됩니다.
+EP02 음악: “Cipher” — Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100844)).
+Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+원곡의 12–72초 구간 발췌, 음량 정규화 및 페이드 적용. [EP02 출처 전문](videos/EP02-CREDITS.txt)
+
+수정본: 영상 내 ‘가상 업무 시나리오’ 문구 제거, 음악 출처는 작은 글자로 마지막 장면 하단에 배치.
 
 ## 에이전트 경영 EP01 — AI 활용과 AX 성과의 차이
 
