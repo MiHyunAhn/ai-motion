@@ -1,0 +1,6 @@
+Motivator — Kevin MacLeod (incompetech.com)
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100803
+Changes: excerpt 16–76s, loudness normalization, fades.
+Font: Pretendard Bold 1.3.9 (SIL OFL 1.1), https://github.com/orioncactus/pretendard
+IGM logo: https://igm.or.kr/theme/buzinga/img/logo.png

@@ -1,5 +1,21 @@
 # AI Motion
 
+## 에이전트 경영 EP03 — CEO의 첫 90일
+
+AI에게 맡길 업무 하나, 권한과 책임, 성과 기준을 정하고 30일 진단 → 60일 소규모 실증 → 90일 성과 비교와 확대 판단으로 연결합니다.
+
+- 60초 · 세로 1080×1920 · 30fps · Pretendard Bold
+- 키네틱 타이포그래피 · 진취적인 126BPM 음악 · 내레이션 없음
+- 마지막 5초: IGM 공식 로고, C레벨의 에이전트 경영 메시지, [www.igm.or.kr](https://www.igm.or.kr)
+- “No.1을 향한 기업교육 파트너”는 지향점을 담은 카피입니다.
+
+[EP03 공개 재생](https://mihyunahn.github.io/ai-motion/videos/agent-management-ep03.mp4) · [파일 다운로드](videos/agent-management-ep03.mp4)
+
+![EP03 미리보기](videos/agent-ep03-preview.png)
+
+음악: “Motivator” — Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100803)), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+16–76초 발췌, 음량 정규화·페이드 적용. [출처 전문](videos/EP03-CREDITS.txt)
+
 ## 에이전트 경영 EP02 — AI가 일하는 회사
 
 월요일 영업실적 회의의 가상 시나리오입니다. AI가 승인된 데이터를 수집하고 변동을 분석해 보고 초안을 준비합니다. 직원은 근거를 검증하고, 팀장은 우선순위를 정하며, 임원은 최종 판단을 맡습니다.
